@@ -12,10 +12,6 @@ const navItems = [
     href: "#projects",
   },
   {
-    name: "Testimonials",
-    href: "#testimonials",
-  },
-  {
     name: "Contact",
     href: "#contact",
   },
@@ -61,67 +57,38 @@ const iconsList = [
     name: "react",
     image: "/images/react.svg",
   },
-  {
-    name: "typescript",
-    image: "/images/ts.svg",
-  },
+
   {
     name: "github",
     image: "/images/github.svg",
   },
-  {
-    name: "gsap",
-    image: "/images/gsap.svg",
-  },
-  {
-    name: "threejs",
-    image: "/images/threejs.svg",
-  },
+
   {
     name: "figma",
     image: "/images/figma.svg",
-  },
-  {
-    name: "aws",
-    image: "/images/aws.svg",
   },
 ];
 
 const slides = [
   {
     id: 1,
-    title: "Sofi",
-    img: "/images/p1.png",
+    title: "TickTrack",
+    img: "/images/tickTrack.jpg",
   },
   {
     id: 2,
-    title: "Jasmina",
-    img: "/images/p2.png",
+    title: "Simaset DPAD DIY",
+    img: "/images/simaset.png",
   },
   {
     id: 3,
-    title: "d.tampe",
-    img: "/images/p3.png",
-  },
-  {
-    id: 4,
-    title: "Blimp.gr",
-    img: "/images/p4.png",
-  },
-  {
-    id: 5,
-    title: "Hawk Style Design",
-    img: "/images/p5.png",
-  },
-  {
-    id: 6,
-    title: "Lewis",
-    img: "/images/p6.png",
+    title: "API-POS Documentation ",
+      img: "/images/api-pos-docs.png",
   },
   {
     id: 7,
-    title: "Sofi",
-    img: "/images/p1.png",
+      title: "TickTrack",
+      img: "/images/tickTrack.jpg",
   },
 ];
 

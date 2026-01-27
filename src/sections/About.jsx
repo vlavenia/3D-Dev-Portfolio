@@ -33,13 +33,20 @@ const About = () => {
                 </div>
                 <div className="mt-5">
                   <h1 className="text-blue-50 md:text-5xl text-3xl">
-                    David JhonSan
+                    Vega Lavenia
                   </h1>
                   <p className="md:text-2xl mt-2">
-                    I am a San francisco-based product designer with a focus on
-                    web design, illustration, a visual development. I have a
-                    diverse range of experience having worked across various
-                    fields and industries.
+                    Hi, I'm Vega Lavenia, a final-year Information Systems. I
+                    have strong interests in software development, web
+                    programming, and database systems.Continuously developing
+                    skills and experience in the Information Systems field.
+                    Known as a fast learner, enthusiastic, responsible, and
+                    reliable. I have experience working on real-world
+                    implementations for government institutions, involving
+                    system analysis, backend development, and user-oriented
+                    interfaces. I enjoy translating business requirements into
+                    structured technical solutions and continuously improving
+                    system performance, usability, and scalability.
                   </p>
                 </div>
               </div>
@@ -63,7 +70,7 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    Web Design & Dev
+                    Full-Stack Web Developer
                   </h1>
                   <p className="md:text-2xl max-w-96">
                     Cleanly Designed, Conversion-focused, and build for easy
@@ -76,10 +83,11 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    UX UI Design
+                    Mobile Application Developer
                   </h1>
                   <p className="md:text-2xl max-w-96">
-                    Seamless web or mobile app design to wow your users.
+                    experienced in developing modern mobile applications with
+                    strong UI/UX, API integration, and efficient data handling.
                   </p>
                 </div>
               </div>

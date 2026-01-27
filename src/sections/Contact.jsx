@@ -4,8 +4,8 @@ import ContactForm from "../components/ContactForm";
 
 const Contact = () => {
   return (
-    <section id="contact" className="flex-center md:p-0 px-5 relative">
-      <div className="w-full h-full container md:my-40 my-20">
+    <section id="contact" className="flex-center md:p-0 relative">
+      <div className="w-full h-full container md:my-10 my-20">
         <TitleHeader
           title="Contact Me"
           number="04"

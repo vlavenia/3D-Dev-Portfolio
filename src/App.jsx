@@ -14,14 +14,14 @@ import {
 const App = () => {
   return (
     <div className="bg-black-100">
-      <Loader />
+      {/* <Loader /> */}
       <NavBar />
       <Sidebar />
       <Hero />
       <About />
       <TechStack />
       <Projects />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </div>

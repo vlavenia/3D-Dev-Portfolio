@@ -5,7 +5,7 @@ import { iconsList } from "../constants";
 const TechStack = () => {
   return (
     <div className="w-full h-full">
-      <div className="w-full md:my-40 my-20">
+      <div className="w-full md:my-5 my-5">
         <div className="container mx-auto md:p-0 px-5">
           <TitleHeader
             title="TECH STACK"
