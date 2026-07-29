@@ -42,8 +42,8 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="relative mx-auto w-full max-w-[34rem] overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/70 shadow-[0_40px_120px_rgba(15,23,42,0.4)]">
-            <div className="relative h-[28rem] sm:h-[34rem] md:h-[38rem] w-full">
+          <div className="relative mx-auto aspect-square w-full max-w-[24rem] overflow-hidden rounded-full bg-slate-950/70 shadow-[0_40px_120px_rgba(15,23,42,0.4)] sm:max-w-[28rem] md:max-w-[32rem]">
+            <div className="absolute inset-0">
               <HeroExperience />
             </div>
           </div>
