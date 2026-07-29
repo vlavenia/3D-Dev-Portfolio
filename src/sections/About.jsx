@@ -36,17 +36,16 @@ const About = () => {
                     Vega Lavenia
                   </h1>
                   <p className="md:text-2xl mt-2">
-                    Hi, I'm Vega Lavenia, a final-year Information Systems. I
-                    have strong interests in software development, web
-                    programming, and database systems.Continuously developing
-                    skills and experience in the Information Systems field.
-                    Known as a fast learner, enthusiastic, responsible, and
-                    reliable. I have experience working on real-world
-                    implementations for government institutions, involving
-                    system analysis, backend development, and user-oriented
-                    interfaces. I enjoy translating business requirements into
-                    structured technical solutions and continuously improving
-                    system performance, usability, and scalability.
+                    Hi, I'm Vega Lavenia, a final-year Information Systems with
+                    hands-on experience supporting IT Strategic Planning and IT
+                    Governance at PT Petrokimia Gresik (Pupuk Indonesia Group),
+                    specifically in developing Enterprise Architecture
+                    documentation. Proficient in COBIT 2019, business process
+                    analysis,data, application and technology architecture
+                    mapping. Highly systematic, analytical, and collaborative in
+                    driving Strategic Business-IT Alignment, with a strong
+                    commitment to advancing a career in IT Planning and
+                    Governance, especially as a Junior Enterprise Architecture.
                   </p>
                 </div>
               </div>
@@ -70,11 +69,12 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    Full-Stack Web Developer
+                    Enterprise Architecture & Artifact Mapping
                   </h1>
-                  <p className="md:text-2xl max-w-96">
-                    Cleanly Designed, Conversion-focused, and build for easy
-                    updates.
+                  <p className="md:text-2xl max-w-180">
+                    Experienced in mapping As-Is business processes, data flows,application catalogs, and IT infrastructure. Skilled in
+                    transforming complex enterprise workflows into structured BPMN and standardized EA documentation to drive strategic
+                    alignment.
                   </p>
                 </div>
               </div>
@@ -83,11 +83,11 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    Mobile Application Developer
+                    IT Governance & Strategic Planning
                   </h1>
-                  <p className="md:text-2xl max-w-96">
-                    experienced in developing modern mobile applications with
-                    strong UI/UX, API integration, and efficient data handling.
+                  <p className="md:text-2xl max-w-180">
+                    Adept at supporting IT governance frameworks using COBIT 2019 and IT Strategic Planning. Dedicated to evaluating IT
+                    capabilities, identifying operational gaps, and ensuring technology investments align with business goals
                   </p>
                 </div>
               </div>

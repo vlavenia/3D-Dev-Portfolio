@@ -17,9 +17,9 @@ const Projects = () => {
             number="03"
             text="Check my recent project below for your Goal"
           />
-        </div>
-        <div className="md:mt-20 mt-10">
-          <Carousel />
+          <div className="md:mt-20 mt-10">
+            <Carousel />
+          </div>
         </div>
       </div>
     </section>
