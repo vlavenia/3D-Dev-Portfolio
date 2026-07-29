@@ -19,7 +19,7 @@ const Hero = () => {
           <div className="space-y-3"></div>
         </div>
 
-        <div className="grid min-h-dvh place-items-center gap-10 xl:grid-cols-[1.1fr_1.3fr_1fr] xl:items-center">
+        <div className="grid min-h-dvh place-items-center gap-10 lg:grid-cols-[1.1fr_1.3fr_1fr] xl:items-center">
           <div className="flex flex-col justify-center gap-6 xl:pl-8">
             <p className="text-2xl font-semibold uppercase tracking-[0.4em] text-slate-400">
               Hello, I&apos;m
@@ -27,7 +27,7 @@ const Hero = () => {
             <h1 className="text-5xl font-black leading-tight tracking-[-0.04em] md:text-[6.5rem]">
               Vega Lavenia
             </h1>
-            <div className="space-y-4">
+            <div className="flex flex-wrap gap-4">
               {bentoSocialLinks.map((item) => (
                 <a
                   key={item.name}
@@ -42,15 +42,14 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="relative mx-auto w-full max-w-165 overflow-hidden  ">
-            <div className="absolute " />
-            <div className="relative h-140 sm:h-160 w-full">
+          <div className="relative mx-auto w-full max-w-[34rem] overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/70 shadow-[0_40px_120px_rgba(15,23,42,0.4)]">
+            <div className="relative h-[28rem] sm:h-[34rem] md:h-[38rem] w-full">
               <HeroExperience />
             </div>
           </div>
 
-          <div className="flex flex-col justify-between gap-10 xl:pr-8">
-            <div className="space-y-4 text-right">
+          <div className="flex flex-col justify-between gap-10 xl:pr-8 xl:items-end items-center text-center xl:text-right">
+            <div className="space-y-4">
               <p className="text-4xl font-semibold uppercase tracking-[0.18em] text-[#9f8cff] md:text-5xl">
                 Junior
               </p>
@@ -62,7 +61,7 @@ const Hero = () => {
               </h2>
             </div>
 
-            <div className="flex flex-col items-end gap-6">
+            <div className="flex flex-col items-center gap-6">
               <a
                 href="/resume.pdf"
                 target="_blank"
@@ -71,7 +70,7 @@ const Hero = () => {
               >
                 Resume
               </a>
-              <p className="max-w-[20rem] text-sm leading-7 text-slate-300">
+              <p className="max-w-[22rem] text-sm leading-7 text-slate-300">
                 I craft immersive digital experiences with strong visuals,
                 elegant typography, and polished motion.
               </p>
