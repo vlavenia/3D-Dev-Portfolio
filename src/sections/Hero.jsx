@@ -63,7 +63,7 @@ const Hero = () => {
 
             <div className="flex flex-col items-center gap-6">
               <a
-                href="/resume.pdf"
+                href="https://raw.githubusercontent.com/vlavenia/3D-Dev-Portfolio/70e1f188e0fac5516477d6fba9d9e8f3d15d33fa/src/assets/resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/5 px-7 py-3 text-sm font-semibold uppercase tracking-[0.24em] text-white transition hover:border-pink-300 hover:bg-white/10"
