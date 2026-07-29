@@ -85,7 +85,7 @@ const slides = [
     {
         id: 2,
         title: "System Architecture & UML Modeling",
-        img: "/images/simaset.png",
+        img: "/images/pict3.jpeg",
         images: [
             "/images/pict3.jpeg",
             "/images/pict5.jpeg",
@@ -98,6 +98,19 @@ const slides = [
     },
     {
         id: 3,
+        title: "IT Service Catalog & Application Portfolio Management",
+        img: "/images/pict6.jpeg",
+        images: [
+            "/images/pict6.jpeg",
+
+
+        ],
+        description:
+            "End-to-end UML modeling for system architecture design, utilizing Use Case, Class, Sequence, and Activity Diagrams to map functional requirements, data structures, and system interactions for seamless integrationLed the comprehensive update of PKG's IT Service Catalog and Application Portfolio across various business domains. Standardized metadata including criticality ratings, application URLs, ownership (BPO/PIC), and service categories to enhance IT Governance and alignment across Pupuk Indonesia Group",
+        tags: ["IT Governance", "Application Catalog",],
+    },
+    {
+        id: 4,
         title: "Website Simaset DPAD DIY",
         img: "/images/simaset.png",
         images: [
@@ -108,7 +121,7 @@ const slides = [
         tags: ["Data", "Admin Panel", "Design"],
     },
     {
-        id: 4,
+        id: 5,
         title: "API-POS Documentation",
         img: "/images/api-pos-docs.png",
         images: [
